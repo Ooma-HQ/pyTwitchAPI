@@ -13,3 +13,5 @@ requirements_dev.txt
 /tests/
 pytest.ini
 Makefile
+build
+.DS_Store
